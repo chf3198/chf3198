@@ -1,6 +1,6 @@
 # Curtis Franks
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=venom&height=180&text=Curtis%20Franks&fontSize=42&fontColor=ffffff&color=0:1f6feb,100:5f2c82&desc=Megingjord%20Harness%20%7C%20AI%20Ops%20Governance%20%7C%20Agent%20Systems&descAlignY=70)
+![Profile Banner](https://capsule-render.vercel.app/api?type=venom&width=1400&height=260&text=Curtis%20Franks&fontSize=72&fontColor=ffffff&color=0:1f6feb,100:5f2c82&desc=Megingjord%20Harness%20%7C%20AI%20Ops%20Governance&descSize=24&descAlignY=68)
 
 ## Featured Project
 
