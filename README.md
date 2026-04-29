@@ -1,7 +1,7 @@
 # Featured Projects
 
 ### [Megingjord Harness](https://github.com/chf3198/megingjord-harness)
-[![Megingjord Harness Banner](https://raw.githubusercontent.com/chf3198/megingjord-harness/feat/611-profile-banner-refresh/.github/assets/megingjord-banner.svg)](https://github.com/chf3198/megingjord-harness)
+[![Megingjord Harness Banner](https://raw.githubusercontent.com/chf3198/megingjord-harness/main/.github/assets/megingjord-banner.svg)](https://github.com/chf3198/megingjord-harness)
 
 Governance-first AI agent harness for Copilot, Claude Code, and Codex with Thor-forged belt energy, runtime controls, and fleet-aware operations.
 
