@@ -24,7 +24,7 @@ AI-powered real estate search with AWS serverless, React/Vite, OpenRouter AI, an
 ---
 
 ### [Mini SCADA HMI Dashboard](https://github.com/chf3198/mini-scada-hmi-dashboard)
-[![Mini SCADA HMI Dashboard Banner](https://raw.githubusercontent.com/chf3198/mini-scada-hmi-dashboard/main/docs/banner.png)](https://github.com/chf3198/mini-scada-hmi-dashboard)
+[![Mini SCADA HMI Dashboard Banner](https://raw.githubusercontent.com/chf3198/mini-scada-hmi-dashboard/main/.github/assets/mini-scada-hmi-banner.png)](https://github.com/chf3198/mini-scada-hmi-dashboard)
 
 Zero-build, browser-ready industrial monitoring demo for learning SCADA and HMI concepts without installation.
 
