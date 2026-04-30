@@ -35,7 +35,7 @@ Zero-build, browser-ready industrial monitoring demo for learning SCADA and HMI 
 ---
 
 ### [Crostini Mem Watchdog](https://github.com/chf3198/crostini-mem-watchdog)
-[![Crostini Mem Watchdog](https://opengraph.githubassets.com/1/chf3198/crostini-mem-watchdog)](https://github.com/chf3198/crostini-mem-watchdog)
+[![Crostini Mem Watchdog](https://raw.githubusercontent.com/chf3198/crostini-mem-watchdog/main/.github/banner.svg)](https://github.com/chf3198/crostini-mem-watchdog)
 
 VS Code extension and systemd daemon that prevents OOM-kills on ChromeOS Crostini and replaces broken earlyoom behavior.
 
