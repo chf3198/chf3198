@@ -1,7 +1,7 @@
 # Featured Projects
 
 ### [Megingjord Harness](https://github.com/chf3198/megingjord-harness)
-[![Megingjord Harness Banner](https://raw.githubusercontent.com/chf3198/megingjord-harness/main/.github/assets/megingjord-banner.svg)](https://github.com/chf3198/megingjord-harness)
+[![Megingjord Harness Banner](https://raw.githubusercontent.com/chf3198/megingjord-harness/main/.github/assets/megingjord-banner.png)](https://github.com/chf3198/megingjord-harness)
 
 Governance-first AI agent harness for Copilot, Claude Code, and Codex with Thor-forged belt energy, runtime controls, and fleet-aware operations.
 
@@ -13,7 +13,7 @@ Governance-first AI agent harness for Copilot, Claude Code, and Codex with Thor-
 ---
 
 ### [Home Harbor](https://github.com/chf3198/home-harbor)
-[![Home Harbor Banner](https://raw.githubusercontent.com/chf3198/home-harbor/main/.github/banner.svg)](https://github.com/chf3198/home-harbor)
+[![Home Harbor Banner](https://raw.githubusercontent.com/chf3198/home-harbor/main/.github/assets/home-harbor-banner.png)](https://github.com/chf3198/home-harbor)
 
 AI-powered real estate search with AWS serverless, React/Vite, OpenRouter AI, and a $0/month architecture.
 
@@ -35,7 +35,7 @@ Zero-build, browser-ready industrial monitoring demo for learning SCADA and HMI 
 ---
 
 ### [Crostini Mem Watchdog](https://github.com/chf3198/crostini-mem-watchdog)
-[![Crostini Mem Watchdog](https://raw.githubusercontent.com/chf3198/crostini-mem-watchdog/main/.github/banner.svg)](https://github.com/chf3198/crostini-mem-watchdog)
+[![Crostini Mem Watchdog](https://raw.githubusercontent.com/chf3198/crostini-mem-watchdog/main/.github/assets/mem-watchdog-banner.png)](https://github.com/chf3198/crostini-mem-watchdog)
 
 VS Code extension and systemd daemon that prevents OOM-kills on ChromeOS Crostini and replaces broken earlyoom behavior.
 
