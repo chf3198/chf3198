@@ -1,6 +1,8 @@
 # Featured Projects
 
 ### [Receipts API + MCP Server](https://github.com/chf3198/receipts-api-mcp)
+[![Receipts API + MCP Server Banner](https://raw.githubusercontent.com/chf3198/receipts-api-mcp/master/docs/assets/banner.png)](https://github.com/chf3198/receipts-api-mcp)
+
 [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-GitHub%20Pages-blue)](https://chf3198.github.io/receipts-api-mcp/)
 [![CI](https://github.com/chf3198/receipts-api-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/chf3198/receipts-api-mcp/actions/workflows/ci.yml)
 
