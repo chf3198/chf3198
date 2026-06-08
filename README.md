@@ -1,5 +1,18 @@
 # Featured Projects
 
+### [Receipts API + MCP Server](https://github.com/chf3198/receipts-api-mcp)
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-GitHub%20Pages-blue)](https://chf3198.github.io/receipts-api-mcp/)
+[![CI](https://github.com/chf3198/receipts-api-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/chf3198/receipts-api-mcp/actions/workflows/ci.yml)
+
+FastAPI REST API + Model Context Protocol (MCP) server over monthly receipt CSVs. Built as a Realtor.com Sr AI Engineer take-home — demonstrates FastAPI, MCP tooling (fastapi-mcp), GitHub Pages dashboard, and AI-governed development workflow.
+
+- [Repository README](https://github.com/chf3198/receipts-api-mcp#readme)
+- [Live Dashboard](https://chf3198.github.io/receipts-api-mcp/)
+- [API Docs (Swagger)](https://github.com/chf3198/receipts-api-mcp#api-endpoints)
+- [MCP Connection Guide](https://github.com/chf3198/receipts-api-mcp#mcp-connection)
+
+---
+
 ### [Megingjord Harness](https://github.com/chf3198/megingjord-harness)
 [![Megingjord Harness Banner](https://raw.githubusercontent.com/chf3198/megingjord-harness/main/.github/assets/megingjord-banner.png)](https://github.com/chf3198/megingjord-harness)
 
